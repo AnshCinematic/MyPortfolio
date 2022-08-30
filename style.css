@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+h1{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    margin-top: 50px;
+    font-size: 90px;
+    color:  #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-size: 2.5rem;
+    color:  #66BFBF;
+    font-weight: bold;
+}
+h3{
+    color: #11999E;
+    font-weight: bold;
+}
+.top-container{
+    background-color: #E3FDFD;
+    padding-top: 100px;
+    
+}
+.top-cloud{
+    position: absolute;
+    top:50px;
+    right:300px;
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    left:300px;
+  
+}
+.mountain{
+    height: 500px;
+}
+.profileimg{
+    width:12%;
+}
+.filmlogo{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+.adobelogo{
+    width:25%;
+    float: right;
+    margin-left: 30px;
+ 
+}
+a{
+    color: #11999E;
+}
+.first-skill{
+    width:50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.second-skill{
+    width:50%;
+    margin: auto;
+    text-align: left;
+    line-height: 2;
+}
+.skills{
+    padding:0px 0px 30px 0px;
+    margin-top:100px ;
+    margin-bottom: 100px;
+
+}
+.intro{
+    width:300px;
+    margin: auto;   
+}
+hr{
+    width:6%;
+    border-style: dotted none none;
+    border-width: 8px;
+    border-color: #b3b3b8ca;
+}
+.profile{
+    margin-bottom: 100px;
+}
+.contact-me{
+    margin-top: 100px;
+}
+.content{
+    margin:50px auto;
+}
+.bottom-container{
+    margin-top:100px;
+    background-color: #66BFBF;
+    padding: 50px;
+}
+.footer-link{
+    margin: 0px 20px;
+    color: #11999E;
+    font-weight: bolder;
+    text-decoration: none;
+}
+.copy{
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 30px;
+}
+.btn{
+    font-weight: bolder;
+    padding: 15px 30px;
+    border: none;
+    background-color:  #3ea6ac;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.but{
+    text-decoration: none;
+    font-size: 20px;
+    color:#fff;
+}
